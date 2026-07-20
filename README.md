@@ -1,8 +1,7 @@
 # Excel Data Cleaning Project
 
 ## Overview
-This project demonstrates data cleaning techniques using Microsoft Excel.
-The dataset was sourced from a public YouTube tutorial and cleaned independently.
+Performed data cleaning and preparation using Excel techniques including error handling, duplicate removal, formatting standardization, and quality checks to prepare datasets for analysis.
 
 ## Tools Used
 - Microsoft Excel (365)
